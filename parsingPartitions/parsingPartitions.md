@@ -26,11 +26,11 @@ Write a program that takes input from stdin a data file. The objective is to wri
 
 In the event that the input file contains some invalid lines these should be written to output as comments of the form:
 
-# INVALID: <line>
+" INVALID: < line > "
 
 In the event that a scenario contains no valid partitions, the output for that scenario should begin with a comment of the form:
 
-# INVALID SCENARIO
+" # INVALID SCENARIO "
 
 Otherwise, the output should simply echo comment lines, replace partitions and separators by their standard forms and replace multiple consecutive empty lines by single empty lines.
 
