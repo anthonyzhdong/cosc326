@@ -1,4 +1,4 @@
-# COSC 326 Manifesto - Computational Problem Solving
+# COSC 326 Manifesto - Computational Problem Solving (A-)
 
 ## Manifesto for COSC326
 
