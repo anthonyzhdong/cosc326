@@ -1,0 +1,8 @@
+pick a random strip from pool of strips
+compare all other strips to our fist pick
+find something that will keep us as close to 0(rather -1or 1 or around that)
+then repeat pick another strip that will get us close to 0(lets our 2 strips had a value of 1(2 matches 1 no match) we would want to add a stip that adds 2 no matches 1 match this would make a balanced carpet so far of 0)
+repeat untill we get to the wanted carpet size
+then once we get a full carpet we add the carpet to our best case
+repeat all above X amount of times each time comparing the full carpet to best case and keeping the ost balanced
+once we have ran ot x times just return the best carpet found.
