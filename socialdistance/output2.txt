@@ -1,0 +1,158 @@
+Visiting (0, 0) with minDistance 3 and totalDistance -4
+Adding (1, 0) with newMinDistance 2 and newTotalDistance 27
+Adding (0, 1) with newMinDistance 2 and newTotalDistance 29
+Visiting (0, 1) with minDistance 2 and totalDistance 29
+Adding (1, 1) with newMinDistance 1 and newTotalDistance 25
+Adding (0, 2) with newMinDistance 1 and newTotalDistance 26
+Visiting (1, 0) with minDistance 2 and totalDistance 27
+Adding (2, 0) with newMinDistance 2 and newTotalDistance 24
+Adding (1, 1) with newMinDistance 1 and newTotalDistance 24
+Visiting (2, 0) with minDistance 2 and totalDistance 24
+Adding (3, 0) with newMinDistance 2 and newTotalDistance 22
+Adding (2, 1) with newMinDistance 2 and newTotalDistance 22
+Visiting (3, 0) with minDistance 2 and totalDistance 22
+Adding (4, 0) with newMinDistance 2 and newTotalDistance 20
+Adding (3, 1) with newMinDistance 2 and newTotalDistance 21
+Visiting (2, 1) with minDistance 2 and totalDistance 22
+Adding (3, 1) with newMinDistance 2 and newTotalDistance 21
+Adding (1, 1) with newMinDistance 1 and newTotalDistance 21
+Adding (2, 2) with newMinDistance 1 and newTotalDistance 19
+Visiting (3, 1) with minDistance 2 and totalDistance 21
+Adding (4, 1) with newMinDistance 2 and newTotalDistance 20
+Adding (3, 2) with newMinDistance 2 and newTotalDistance 19
+Visiting (4, 0) with minDistance 2 and totalDistance 20
+Adding (5, 0) with newMinDistance 2 and newTotalDistance 18
+Adding (4, 1) with newMinDistance 2 and newTotalDistance 19
+Visiting (4, 1) with minDistance 2 and totalDistance 20
+Adding (5, 1) with newMinDistance 2 and newTotalDistance 18
+Adding (4, 2) with newMinDistance 2 and newTotalDistance 19
+Visiting (3, 2) with minDistance 2 and totalDistance 19
+Adding (4, 2) with newMinDistance 2 and newTotalDistance 18
+Adding (2, 2) with newMinDistance 1 and newTotalDistance 17
+Adding (3, 3) with newMinDistance 2 and newTotalDistance 17
+Visiting (4, 2) with minDistance 2 and totalDistance 19
+Adding (5, 2) with newMinDistance 2 and newTotalDistance 18
+Adding (4, 3) with newMinDistance 2 and newTotalDistance 17
+Visiting (5, 0) with minDistance 2 and totalDistance 18
+Adding (6, 0) with newMinDistance 2 and newTotalDistance 16
+Adding (5, 1) with newMinDistance 2 and newTotalDistance 17
+Visiting (5, 1) with minDistance 2 and totalDistance 18
+Adding (6, 1) with newMinDistance 2 and newTotalDistance 16
+Adding (5, 2) with newMinDistance 2 and newTotalDistance 17
+Visiting (5, 2) with minDistance 2 and totalDistance 18
+Adding (6, 2) with newMinDistance 2 and newTotalDistance 16
+Adding (5, 3) with newMinDistance 2 and newTotalDistance 17
+Visiting (5, 3) with minDistance 2 and totalDistance 17
+Adding (6, 3) with newMinDistance 2 and newTotalDistance 16
+Adding (4, 3) with newMinDistance 2 and newTotalDistance 16
+Adding (5, 4) with newMinDistance 2 and newTotalDistance 15
+Visiting (3, 3) with minDistance 2 and totalDistance 17
+Adding (4, 3) with newMinDistance 2 and newTotalDistance 16
+Adding (2, 3) with newMinDistance 2 and newTotalDistance 16
+Adding (3, 4) with newMinDistance 2 and newTotalDistance 15
+Visiting (4, 3) with minDistance 2 and totalDistance 17
+Adding (4, 4) with newMinDistance 2 and newTotalDistance 15
+Visiting (6, 1) with minDistance 2 and totalDistance 16
+Adding (7, 1) with newMinDistance 2 and newTotalDistance 15
+Adding (6, 2) with newMinDistance 2 and newTotalDistance 15
+Adding (6, 0) with newMinDistance 2 and newTotalDistance 15
+Visiting (2, 3) with minDistance 2 and totalDistance 16
+Adding (1, 3) with newMinDistance 1 and newTotalDistance 15
+Adding (2, 4) with newMinDistance 2 and newTotalDistance 15
+Adding (2, 2) with newMinDistance 1 and newTotalDistance 15
+Visiting (6, 2) with minDistance 2 and totalDistance 16
+Adding (7, 2) with newMinDistance 2 and newTotalDistance 15
+Adding (6, 3) with newMinDistance 2 and newTotalDistance 15
+Visiting (6, 0) with minDistance 2 and totalDistance 16
+Adding (7, 0) with newMinDistance 1 and newTotalDistance 15
+Visiting (6, 3) with minDistance 2 and totalDistance 16
+Adding (7, 3) with newMinDistance 2 and newTotalDistance 15
+Adding (6, 4) with newMinDistance 2 and newTotalDistance 15
+Visiting (7, 3) with minDistance 2 and totalDistance 15
+Adding (8, 3) with newMinDistance 2 and newTotalDistance 14
+Adding (7, 4) with newMinDistance 2 and newTotalDistance 15
+Adding (7, 2) with newMinDistance 2 and newTotalDistance 14
+Visiting (4, 4) with minDistance 2 and totalDistance 15
+Adding (5, 4) with newMinDistance 2 and newTotalDistance 14
+Adding (3, 4) with newMinDistance 2 and newTotalDistance 14
+Adding (4, 5) with newMinDistance 2 and newTotalDistance 13
+Visiting (3, 4) with minDistance 2 and totalDistance 15
+Adding (2, 4) with newMinDistance 2 and newTotalDistance 14
+Adding (3, 5) with newMinDistance 2 and newTotalDistance 13
+Visiting (7, 1) with minDistance 2 and totalDistance 15
+Adding (8, 1) with newMinDistance 1 and newTotalDistance 14
+Adding (7, 2) with newMinDistance 2 and newTotalDistance 15
+Adding (7, 0) with newMinDistance 1 and newTotalDistance 14
+Visiting (2, 4) with minDistance 2 and totalDistance 15
+Adding (1, 4) with newMinDistance 2 and newTotalDistance 15
+Adding (2, 5) with newMinDistance 1 and newTotalDistance 13
+Visiting (7, 2) with minDistance 2 and totalDistance 15
+Adding (8, 2) with newMinDistance 2 and newTotalDistance 14
+Visiting (7, 4) with minDistance 2 and totalDistance 15
+Adding (8, 4) with newMinDistance 2 and newTotalDistance 15
+Adding (6, 4) with newMinDistance 2 and newTotalDistance 14
+Adding (7, 5) with newMinDistance 2 and newTotalDistance 14
+Visiting (6, 4) with minDistance 2 and totalDistance 15
+Adding (5, 4) with newMinDistance 2 and newTotalDistance 14
+Adding (6, 5) with newMinDistance 1 and newTotalDistance 13
+Visiting (5, 4) with minDistance 2 and totalDistance 15
+Adding (5, 5) with newMinDistance 2 and newTotalDistance 13
+Visiting (1, 4) with minDistance 2 and totalDistance 15
+Adding (0, 4) with newMinDistance 2 and newTotalDistance 15
+Adding (1, 5) with newMinDistance 2 and newTotalDistance 15
+Adding (1, 3) with newMinDistance 1 and newTotalDistance 14
+Visiting (8, 4) with minDistance 2 and totalDistance 15
+Adding (8, 5) with newMinDistance 2 and newTotalDistance 15
+Adding (8, 3) with newMinDistance 2 and newTotalDistance 14
+Visiting (0, 4) with minDistance 2 and totalDistance 15
+Adding (0, 5) with newMinDistance 2 and newTotalDistance 15
+Adding (0, 3) with newMinDistance 2 and newTotalDistance 15
+Visiting (1, 5) with minDistance 2 and totalDistance 15
+Adding (2, 5) with newMinDistance 1 and newTotalDistance 13
+Adding (0, 5) with newMinDistance 2 and newTotalDistance 15
+Adding (1, 6) with newMinDistance 1 and newTotalDistance 13
+Visiting (8, 5) with minDistance 2 and totalDistance 15
+Adding (7, 5) with newMinDistance 2 and newTotalDistance 14
+Adding (8, 6) with newMinDistance 2 and newTotalDistance 14
+Visiting (0, 5) with minDistance 2 and totalDistance 15
+Adding (0, 6) with newMinDistance 2 and newTotalDistance 15
+Visiting (0, 6) with minDistance 2 and totalDistance 15
+Adding (1, 6) with newMinDistance 1 and newTotalDistance 13
+Adding (0, 7) with newMinDistance 2 and newTotalDistance 15
+Visiting (0, 3) with minDistance 2 and totalDistance 15
+Adding (1, 3) with newMinDistance 1 and newTotalDistance 14
+Adding (0, 2) with newMinDistance 1 and newTotalDistance 14
+Visiting (0, 7) with minDistance 2 and totalDistance 15
+Adding (1, 7) with newMinDistance 2 and newTotalDistance 15
+Visiting (1, 7) with minDistance 2 and totalDistance 15
+Adding (2, 7) with newMinDistance 1 and newTotalDistance 13
+Adding (1, 6) with newMinDistance 1 and newTotalDistance 13
+Visiting (7, 5) with minDistance 2 and totalDistance 14
+Adding (6, 5) with newMinDistance 1 and newTotalDistance 12
+Adding (7, 6) with newMinDistance 1 and newTotalDistance 12
+Visiting (8, 6) with minDistance 2 and totalDistance 14
+Adding (7, 6) with newMinDistance 1 and newTotalDistance 12
+Adding (8, 7) with newMinDistance 2 and newTotalDistance 14
+Visiting (8, 2) with minDistance 2 and totalDistance 14
+Adding (8, 3) with newMinDistance 2 and newTotalDistance 14
+Adding (8, 1) with newMinDistance 1 and newTotalDistance 13
+Visiting (8, 3) with minDistance 2 and totalDistance 14
+Visiting (8, 7) with minDistance 2 and totalDistance 14
+min 2, total 14
+Path Taken: 
+(0, 0)
+(1, 0)
+(2, 0)
+(3, 0)
+(3, 1)
+(4, 1)
+(4, 2)
+(5, 2)
+(5, 3)
+(6, 3)
+(7, 3)
+(7, 4)
+(8, 4)
+(8, 5)
+(8, 6)
+(8, 7)
